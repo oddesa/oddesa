@@ -15,7 +15,10 @@
 - ⚛ More science stuffs
 
 ### Anyway, for iOS development, here are some project based on their popular tech stack:
-- Viper based architecture ([Dismo 2](https://github.com/oddesa/Dismo-2)) -> Kingfisher, Netfox, Moya
+- Viper architecture based iOS App ([Dismo 2](https://github.com/oddesa/Dismo-2)) -> Kingfisher, Netfox, Moya
+- MVVM architecture based iOS App ([Dismo](https://github.com/oddesa/Dismo)) 
+- MVC SwiftUI based iOS + Mac App ([Africa](https://github.com/oddesa/Africa)) 
+- MVC SwiftUI based iOS App ([TouchDown](https://github.com/oddesa/TouchDown))
 <!--
 **oddesa/oddesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
