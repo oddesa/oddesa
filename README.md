@@ -13,6 +13,7 @@
 - 🧠 AI
 - 🤑 Financial things
 - ⚛ More science stuffs
+- 👨‍💻 More science stuffs
 
 ### Anyway, for iOS development, here are some project based on their popular tech stack:
 - Viper architecture based iOS App ([Dismo 2](https://github.com/oddesa/Dismo-2)) -> Kingfisher, Netfox, Moya
