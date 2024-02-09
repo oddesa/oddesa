@@ -15,6 +15,7 @@
 - ⚛ More science stuffs
 
 ### Anyway, for iOS development, here are some project based on their popular tech stack:
+- CleanArchitecture combined with MVVM iOS App ([Biji](https://github.com/oddesa/Fintech-CleanArchitecture-MVVM)) -> DGCharts
 - VIPER design patterned + modularized (git submodules) iOS App ([Dismo 2 Modular](https://github.com/oddesa/Dismo-2-Modular)) -> Kingfisher, Netfox, Moya
 - VIPER design patterned iOS App ([Dismo 2](https://github.com/oddesa/Dismo-2)) -> Kingfisher, Netfox, Moya
 - MVVM architecture based iOS App ([Dismo](https://github.com/oddesa/Dismo)) 
