@@ -2,14 +2,14 @@
 
 ### Engineered Scientist!
 - 🖥 Software engineer in Sydney. iOS (Swift, SwiftUI, UIKit) by trade, full-stack TypeScript (Next.js, NestJS, PostgreSQL) for client work.
-- 🤝 I’m looking to collaborate on any Swift based development or project
+- 🤝 Open to iOS and full-stack work, and to collaborating on client projects
 - 💬 Ask me about iOS Development and Science stuffs!
 - ⛰ Just want to let you know that I like hiking so much
 
 
 ### Currently I'm on journey to learn
 - 🍎 iOS Development
-- 🧠 AI
+- 🧠 AI tooling and LLM-backed features
 - 🤑 Financial things
 - ⚛ More science stuffs
 
