@@ -6,6 +6,10 @@
 - 💬 Ask me about iOS Development and Science stuffs!
 - ⛰ Just want to let you know that I like hiking so much
 
+### Client work (live products; code is private to each client)
+- **[Taman Assessment](https://assessment.tamanschool.com)**: multi-tenant online exam platform for schools (Indonesian). Sole developer. Next.js, NestJS, Prisma, PostgreSQL, Redis, Docker, AWS S3.
+- **[Miels](https://miels.id)**: organic skincare e-commerce platform, built with a team. Next.js, NestJS, PostgreSQL, Docker, AWS, with payment, WhatsApp and shipping integrations.
+- **x8space**: connected-space product with a Laravel backend and AWS IoT.
 
 ### Currently I'm on journey to learn
 - 🍎 iOS Development
