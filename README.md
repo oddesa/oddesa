@@ -1,9 +1,8 @@
 # Hi there 👋 Welcome to my page!
 
 ### Engineered Scientist!
-- 🖥 I’m currently working as an iOS Developer
+- 🖥 Software engineer in Sydney. iOS (Swift, SwiftUI, UIKit) by trade, full-stack TypeScript (Next.js, NestJS, PostgreSQL) for client work.
 - 🤝 I’m looking to collaborate on any Swift based development or project
-- 🤔 I’m looking for help with some advanced topic about iOS Development
 - 💬 Ask me about iOS Development and Science stuffs!
 - ⛰ Just want to let you know that I like hiking so much
 
